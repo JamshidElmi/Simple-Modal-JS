@@ -1,3 +1,10 @@
+/**
+*  @project   Simple Modal
+*  @author    Jamshid Elmi
+*  @created   2022-07-10 18:09:05
+*  @modified  2022-07-10 18:09:05
+*  @tutorial  https://www.youtube.com/c/codingplay
+*/
 'use strict';
 const modal = document.querySelector(".modal"); 
 const overlay = document.querySelector(".overlay"); 
